@@ -1,0 +1,33 @@
+{
+  "name": "BARKER",
+  "symbol": "BARKER",
+  "description": "BARKER tokens are primarily used to promote the BARK Protocol and the Barker’s Club. They serve as a tool for incentivizing community engagement and participation in various promotional activities, including social media.",
+  "image": "https://raw.githubusercontent.com/bark-community/barker-token/main/src/assets/barker.svg",
+  "animation_url": null,
+  "extensions": {
+    "website": "https://barkersters.club",
+    "governance": "https://app.realms.today/realm/",
+    "twitter": "https://twitter.com/bark_protocol",
+    "discord": "https://discord.gg/H9en8eHzn2",
+    "telegram": "https://t.me/+EnczyzzKS_k2NmQ0",
+    "medium": "https://medium.com/@barkprotocol"
+  },
+  "attributes": [
+    {
+      "trait_type": "Utility",
+      "value": "Community, Membership, Governance"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Asset Type",
+      "value": "NFT"
+    },
+    {
+      "trait_type": "Community Driven",
+      "value": "Yes"
+    }
+  ]
+}
