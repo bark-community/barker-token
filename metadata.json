@@ -6,7 +6,7 @@
   "animation_url": null,
   "extensions": {
     "website": "https://barkersters.club",
-    "governance": "https://app.realms.today/realm/",
+    "governance": "https://app.realms.today/realm/barkersters",
     "twitter": "https://twitter.com/bark_protocol",
     "discord": "https://discord.gg/H9en8eHzn2",
     "telegram": "https://t.me/+EnczyzzKS_k2NmQ0",
@@ -15,7 +15,7 @@
   "attributes": [
     {
       "trait_type": "Utility",
-      "value": "Community, Membership, Governance"
+      "value": "Community Token, Membership, Governance"
     },
     {
       "trait_type": "Blockchain",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Asset Type",
-      "value": "NFT"
+      "value": "cNFT"
     },
     {
       "trait_type": "Community Driven",
