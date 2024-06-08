@@ -1,8 +1,8 @@
 {
   "name": "BARKER",
   "symbol": "BARKER",
-  "description": "The BARKER is a community token of the BARK Protocol, crafted to reward active community involvement and drive engagement. Holding BARKER tokens unlocks exclusive benefits, including tiered rewards, governance participation, and early access to new features and initiatives. Focused on blending social finance with impactful charity, BARKER empowers users to contribute to meaningful projects, enhancing their influence and fostering growth in the social finance space.",
-  "image": "https://raw.githubusercontent.com/bark-community/barker-token/main/src/assets/barker.svg",
+  "description": "The BARKER is a community token of the BARK Protocol, crafted to reward active community involvement and drive engagement. Holding BARKER or BARK tokens unlocks exclusive benefits, including tiered rewards, governance participation, and early access to new features and initiatives. Focused on blending social finance with impactful charity, BARKER empowers users to contribute to meaningful projects, enhancing their influence and fostering growth in the social finance space.",
+  "image": "https://raw.githubusercontent.com/bark-community/barker-token/main/src/assets/barkers-club.png",
   "animation_url": null,
   "extensions": {
     "website": "https://barkprotocol.com",
